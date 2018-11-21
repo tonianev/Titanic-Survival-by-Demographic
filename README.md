@@ -24,9 +24,15 @@ interactivity and extra information to the graphs.
 
 # References:
 https://www.kaggle.com/c/titanic
+
 https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d54e6d_titanic-data/titanic-data.csv&sa=D&ust=1524501363762000
+
 https://stackoverflow.com/questions/38246199/how-to-show-sheet-title-in-story-in-tableau
+
 https://community.tableau.com/thread/213787
+
 https://community.tableau.com/thread/252119
+
 https://www.tableau.com/about/blog/2017/11/viz-tooltip-here-78442
+
 https://www.history.com/this-day-in-history/unsinkable-titanic-sinks
